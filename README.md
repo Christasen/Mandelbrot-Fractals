@@ -1,5 +1,8 @@
 # Mandelbrot-Fractals
 Mandelbrot Visualiization
 
-## RUN
+## Run
+```
+Python3 program.py -h
 
+```
